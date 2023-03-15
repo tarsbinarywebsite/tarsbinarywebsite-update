@@ -1,0 +1,48 @@
+[
+  {
+    "bg-color":"#FFFFFF",
+    "header": {
+      "title": "Can you Cook Delicious Dishes?",
+      "leading": "Lorem ipsum",
+      "image": "https://i.ibb.co/mc50Qps/memb5.jpg"
+    },
+    "footer": {
+      "icon-img": "https://i.ibb.co/ZBhSfyF/Mitsubishi-emblem-1024x768.png",
+      "leading": "Apple Arcade",
+      "title": "Cooking Mama",
+      "sub-title": "Apple Arcade",
+      "button-name": "Get"
+    }
+  },
+  {
+    "bg-color":"#FFFFFF",
+    "header": {
+      "title": "Can you Cook Delicious Dishes?",
+      "leading": "Lorem ipsum",
+      "image": "https://i.ibb.co/mc50Qps/memb5.jpg"
+    },
+    "footer": {
+      "icon-img": "https://i.ibb.co/ZBhSfyF/Mitsubishi-emblem-1024x768.png",
+      "leading": "Apple Arcade",
+      "title": "Cooking Mama",
+      "sub-title": "Apple Arcade",
+      "button-name": "Get"
+    }
+  },
+  {
+    "bg-color":"#FFFFFF",
+    "header": {
+      "title": "Can you Cook Delicious Dishes?",
+      "leading": "Lorem ipsum",
+      "image": "https://i.ibb.co/mc50Qps/memb5.jpg"
+    },
+    "footer": {
+      "icon-img": "https://i.ibb.co/ZBhSfyF/Mitsubishi-emblem-1024x768.png",
+      "leading": "Apple Arcade",
+      "title": "Cooking Mama",
+      "sub-title": "Apple Arcade",
+      "button-name": "Get"
+      
+    }
+  }
+]

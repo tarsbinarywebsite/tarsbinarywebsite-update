@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+@font-face {
+  font-family: SFProTextBold;
+  src: url(./Assets/Fonts/SF-Pro-Text-Bold.otf);
+}
+
+@font-face {
+  font-family: SFProTextRegular;
+  src: url(./Assets/Fonts/SF-Pro-Text-Regular.otf);
+}
+@font-face {
+  font-family: SFProDisplayThin;
+  src: url(./Assets/Fonts/FontsFree-Net-SFProDisplay-Thin.ttf);
+  /* src: url(./Assets/Fonts/SF-Pro-Text-Heavy.otf); */
+  /* src: url(./Assets/Fonts/SF-Pro-Text-Medium.otf); */
+  /* src: url(./Assets/Fonts/SF-Pro-Text-Regular.otf); */
+  /* src: url(./Assets/Fonts/SF-Pro-Text-Semibold.otf); */
+}
+@font-face {
+  font-family: BankGothicBold;
+  src: url(./Assets/Fonts/BankGothicBold.ttf);
+}
+
+@font-face {
+  font-family: CourierNew;
+  src: url(./Assets/Fonts/cour.ttf);
+}
+
+@font-face {
+  font-family:SFProTextThin ;
+  src: url(./Assets/Fonts/SF-Pro-Text-Thin.ttf);
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
